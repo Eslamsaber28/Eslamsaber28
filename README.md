@@ -84,11 +84,12 @@ Resorts • Hotels • Restaurants • Trips • Rentals • Transportation
 ## 🚀 Backend Expertise
 
 ✔ REST API Design & Best Practices  
-✔ JWT Authentication & Authorization  
+✔ Laravel Sanctum Authentication & Authorization  
 ✔ Multi-Role Systems & Complex Business Logic  
 ✔ Database Design & Optimization  
 ✔ Notifications, Events & Queues  
-✔ Production-ready Laravel Architecture  
+✔ Production-ready Laravel Architecture
+
 
 ---
 
