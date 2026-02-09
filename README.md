@@ -30,7 +30,7 @@ Backend Developer specialized in **Laravel & REST APIs**, focused on building
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,react,bootstrap,html,css,git,github,postman,docker,nodejs" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,js,react,bootstrap,html,css,git,github,postman,nodejs" />
 </p>
 
 ---
