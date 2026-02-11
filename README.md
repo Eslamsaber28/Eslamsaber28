@@ -51,7 +51,7 @@ Large-scale medical system serving **Doctors, Clinics, Patients, Labs & Owners**
 Backend built using **Laravel REST APIs** for Web & Mobile apps.
 
 ### Key Achievements
-- 🔐 Unified Authentication using **Sanctum + JWT**
+- 🔐 Unified Authentication using **Sanctum**
 - 👥 Multi-guard authentication without role duplication
 - 🛡️ Full **RBAC Roles & Permissions** system
 - 📅 Appointment booking & clinic workflows
